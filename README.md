@@ -13,6 +13,8 @@ featuring JWT authentication, REST APIs, and MySQL database integration.
 
 💡 Technologies: Java 17 · Spring Boot 3.3.5 · MySQL 8.0 · JWT · REST API · Hibernate ORM
 
+⭐ If you find this project helpful, please consider starring the repository!
+
 ## Tech Stack
 - **Backend:** Java 17, Spring Boot 3.3.5
 - **Security:** Spring Security, JWT Authentication
