@@ -9,7 +9,8 @@ featuring JWT authentication, REST APIs, and MySQL database integration.
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
- 🚀 Built independently to demonstrate full-stack Java development skills
+🚀 Built independently to demonstrate full-stack Java development skills
+💡 Technologies: Java 17 · Spring Boot 3.3.5 · MySQL 8.0 · JWT · REST API · Hibernate ORM
 
 ## Tech Stack
 - **Backend:** Java 17, Spring Boot 3.3.5
