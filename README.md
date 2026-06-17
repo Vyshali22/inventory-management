@@ -20,6 +20,7 @@ featuring JWT authentication, REST APIs, and MySQL database integration.
 - **Tools:** Maven, Postman, IntelliJ IDEA
 
 ## Features
+- MVC architecture with clean separation of Controllers, Services and Repository layers
 - JWT-based user authentication (Register/Login)
 - Full CRUD operations for Products and Categories
 - Low stock alert system
