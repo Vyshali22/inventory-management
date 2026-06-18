@@ -28,6 +28,7 @@ featuring JWT authentication, REST APIs, and MySQL database integration.
 - Low stock alert system
 - Secure REST APIs with Bearer token authorization
 - Auto table creation using Hibernate
+- BCrypt password encryption for secure user credential storage
 
 ## API Endpoints
 
