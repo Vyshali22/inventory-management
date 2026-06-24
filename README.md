@@ -69,4 +69,5 @@ Built alongside:
 - JPMorgan Chase Software Engineering (Forage)
 - Reviewed inventory module on June 24, 2026
 - Verified API endpoints working as expected
+- Updated documentation formatting
 
