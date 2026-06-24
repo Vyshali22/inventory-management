@@ -68,4 +68,5 @@ Built alongside:
 - British Airways Data Science (Forage)
 - JPMorgan Chase Software Engineering (Forage)
 - Reviewed inventory module on June 24, 2026
+- Verified API endpoints working as expected
 
